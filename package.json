@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/fates-warning/issues"
   },
-  "homepage": "https://github.com/AgtLucas/fates-warning#readme"
+  "homepage": "https://github.com/AgtLucas/fates-warning#readme",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
 }
