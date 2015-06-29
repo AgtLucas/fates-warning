@@ -1,1 +1,1 @@
-
+var hapi = require('hapi');
